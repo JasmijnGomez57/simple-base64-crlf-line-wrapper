@@ -1,0 +1,17 @@
+{
+  "name": "simple-base64-crlf-line-wrapper",
+  "version": "0.1.0",
+  "description": "Wraps Base64 output at 76 characters with CRLF for MIME.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
